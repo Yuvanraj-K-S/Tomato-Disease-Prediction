@@ -1,0 +1,1 @@
+Thios a model that uses Keras and other models to predict the by which the the tomato plant is affected. It has around 11 classes(Diseases) it also prints the probability of each class# Tomato-Disease-Prediction
